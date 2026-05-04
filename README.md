@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayuba%20Garba&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20AI%20Automation%20Builder&descAlignY=58&descAlign=50"/>
 
+<h1 align="center">Hi 👋, I'm Ayuba Garba</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+intelligent+web+applications;AI+SaaS+products+%26+developer+tools;Next.js+%7C+TypeScript+%7C+Supabase+%7C+PostgreSQL" alt="Typing SVG" />
 </p>
